@@ -1,0 +1,13 @@
+{
+	"name": "BigO_Notation",
+	"version": "1.0.0",
+	"main": "basics.js",
+	"license": "MIT",
+	"scripts": {
+		"basics": "node basics.js",
+		"coefficient": "node coefficient.js",
+		"sum": "node sum.js",
+		"product": "node product.js",
+		"polynomial": "node polynomial.js"
+	}
+}
